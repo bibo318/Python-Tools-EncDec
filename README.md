@@ -1,14 +1,4 @@
-# Enc/Dec Python
-
-## Encrypt Feature!
-- Encrypt Base16
-- Encrypt Base32
-- Encrypt Base64
-- Encrypt Hex
-- Encrypt Marshal
-- Compile py > pyc
-- Encrypt Marshal Zlib Base64
-- Encrypt Zlib
+# Tools Enc/Dec Python
 
 ## Decrypt Feature!
 - Decrypt base16
@@ -20,6 +10,17 @@
 - Decrypt Marshal,Zlib,Base64
 - Decrypt Zlib
 
+## Encrypt Feature!
+- Encrypt Base16
+- Encrypt Base32
+- Encrypt Base64
+- Encrypt Hex
+- Encrypt Marshal
+- Compile py > pyc
+- Encrypt Marshal Zlib Base64
+- Encrypt Zlib
+
+
 ## Installations
 ```bash
 apt update && apt upgrade
@@ -30,7 +31,6 @@ apt install python python2
 ```bash
 python2 xtools.py
 ```
-
 
 ## Tools Overview
 |    Encrypt    |    Decyrpt   |
